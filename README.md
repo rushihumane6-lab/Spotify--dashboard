@@ -113,8 +113,7 @@ The purpose of this dashboard is to:
 -What trends can guide future music releases?
 
 # Screenshot
-Spotify Music Analytics Dashboard :-
-
+Spotify Music Analytics Dashboard :-https://github.com/rushihumane6-lab/Spotify--dashboard/blob/main/Screenshot%202026-06-12%20132546.png
 (Dashboard screenshot attached above)
 
 Demo Summary
